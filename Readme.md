@@ -8,7 +8,7 @@ bash run.sh
 Expected output:
 ```
 Noflag
-Output: 19
+Output: 18
 -fno-expand
 Output: 18
 ```
@@ -16,7 +16,7 @@ Output: 18
 Actual output:
 ```
 Noflag
-Output: 18
+Output: 19
 -fno-expand
 Output: 18
 ```
