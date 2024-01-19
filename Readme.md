@@ -5,6 +5,8 @@ To reproduce, please have Verilator installed and run:
 bash run.sh
 ```
 
+Tested with `Verilator 5.021 devel rev v5.020-31-g54922c036`.
+
 Expected output:
 ```
 Noflag
